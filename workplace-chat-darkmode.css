@@ -1,0 +1,258 @@
+/*
+* Use with this chrome css/js injector plugin:
+* https://chrome.google.com/webstore/detail/css-and-javascript-inject/ckddknfdmcemedlmmebildepcmneakaa?hl=en
+*/
+
+body.liquid {
+    color: #ddd;
+    background-color: #1e1e1e;
+}
+
+.liquid h1, .liquid h2, .liquid h3, .liquid h4, .liquid h5, .liquid h6 {
+    color: #ddd;
+}
+
+.liquid input {
+    color: #ddd;
+}
+
+/* header bar */
+.liquid ._2z9v {
+    display: none;
+}
+.liquid ._5i94 ._2s1y {
+    background-color: #1e1e1e;
+    color: #ddd;
+    border-color: #000001;
+}
+.liquid ._5i94 ._585-,
+.liquid ._o0o ._5iwm ._58al {
+    background-color: #636466;
+    border-color: #636466;
+}
+.liquid ._5i94 ._585-::placeholder,
+.liquid ._o0o ._5iwm ._58al::placeholder {
+    color: #bbb;
+}
+.liquid ._5i94 ._2s25:hover,
+.liquid ._5i94 ._2s25:focus,
+.liquid ._5i94 ._2s25:active {
+    background-color: #464646;
+}
+
+.liquid ._1nxz._1z4y a.jewelButton:hover,
+.liquid ._1nxz._1z4y a.jewelButton:focus,
+.liquid ._dyn._4xi2 a.jewelButton:hover,
+.liquid ._dyn._4xi2 a.jewelButton:focus,
+.liquid ._dyn._4xi2._5orl a.jewelButton:hover,
+.liquid ._dyn._4xi2._5orl a.jewelButton:focus,
+.liquid ._dyn._4xi2._5orm a.jewelButton:hover,
+.liquid ._dyn._4xi2._5orm a.jewelButton:focus,
+.liquid ._l35._-57 ._59fc:hover,
+.liquid ._l35._-57 ._59fc:focus,
+.liquid ._29z1 ._5lxs:hover,
+.liquid ._29z1 ._5lxs:focus,
+.liquid ._51l0 ._2z9u:hover,
+.liquid ._51l0 ._2z9u:focus,
+.liquid ._51l0 ._2z9u:active{
+    background-color: #989898;
+}
+
+/* body */
+.liquid._6q1a ._4sp8,
+.liquid._6q1a ._2sdm,
+#facebook .liquid._6q1a._z4_,
+#facebook .liquid._6q1a ._4p-s,
+.liquid._6q1a ._1ht1._1ht2 {
+    background-color: #1e1e1e;
+}
+
+/* top bar */
+.liquid ._17w2 {
+    color: #ddd;
+}
+.liquid ._673w,
+.liquid ._36ic {
+    border-color: #000001;
+}
+.liquid ._2y8_ {
+    background-color: #444;
+}
+
+/* left bar */
+.liquid ._o0o ._1ht1._1ht2,
+.liquid._6q1a ._5iwm ._58al,
+.liquid ._23ct {
+    background-color: #444444;
+}
+.liquid ._1ht6,
+.liquid ._3q34 {
+    color: #ddd;
+}
+.liquid ._1ht7,
+.liquid ._225b,
+.liquid ._3q35,
+.liquid ._364g,
+.liquid ._2y8z,
+.liquid ._4g0h,
+.liquid ._3xcx,
+.liquid ._5i_d,
+.liquid ._1mq-._1mq-,
+.liquid ._497p,
+.liquid ._ih3,
+.liquid ._2v6o,
+.liquid ._5eu7,
+.liquid ._6krh,
+.liquid ._3szq,
+.liquid ._2jnv {
+    color: rgba(255, 255, 255, .40);
+}
+.liquid ._1ht3 ._1htf {
+    color: #ddd;
+}
+
+/* borders */
+.liquid ._1t2u,
+.liquid ._4rv3 {
+    border-color: #000001;
+}
+
+.liquid .fbNubFlyoutHeader,
+.liquid .fbNubFlyoutBody,
+.liquid .fbNubFlyoutFooter,
+.liquid .fbNubFlyoutAttachments,
+.liquid ._4_j4 .chatAttachmentShelf {
+    background-color: #1e1e1e;
+    border-color: #000001;
+}
+
+/* chat */
+.liquid ._o0o ._hh7,
+.liquid ._o0o ._hh7:active, ._o0o ._-5k ._hh7,
+.liquid._6q1a ._hh7 {
+    background-color: #444;
+    color: #d4d4d4;
+}
+.liquid._6q1a ._hh7,
+.liquid._6q1a ._hh7:active,
+.liquid._6q1a ._-5k ._hh7 {
+    background-color: #444;
+    border-color: #333;
+}
+.liquid ._43by._43by,
+.liquid._6q1a ._o46 ._ih- {
+    background-color: #36505d !important;
+}
+.liquid ._5i94 ._585- ._4w98,
+.liquid ._5i94 ._585- ._4w98:hover,
+.liquid ._13iv ._5l37:active,
+.liquid ._13iv ._1k1p, ._13iv ._5l37:hover{
+    background-color: #636466;
+}
+.liquid ._aou {
+    background-color: #333;
+}
+.liquid ._53ij {
+    background: #333;
+}
+.liquid ._o0o ._o46 ._ih-,
+.liquid ._o0o ._o46 ._ih-:hover,
+.liquid ._o0o ._o46._3i_m ._ih-,
+.liquid ._o0o ._o46._3i_m ._ih-:hover,
+.liquid ._4kf5 {
+    background-color: #737373;
+    color: #ddd;
+    font-weight: bold;
+}
+.liquid ._o0o ._fy2 {
+    color: #ddd;
+}
+.liquid ._5i_d {
+    background-color: #333;
+}
+.liquid ._4k7a,
+.liquid .__6k,
+.liquid ._5i_d .__6l,
+.liquid ._5i_d .__6m,
+.liquid ._5i_d .__6k,
+.liquid ._1mr_._1mr_,
+.liquid ._3b4u._3b4u {
+    color: #ddd;
+}
+.liquid ._3b4t {
+    background-color: #444;
+    color: #ddd;
+}
+.liquid ._2m5p._2m5p {
+    border-color: rgba(255,255,255, .40);
+}
+.liquid ._3mts._3mts .uiScrollableArea.contentAfter::after {
+    background: linear-gradient(
+        rgba(34,34,34,.05),
+        rgb(34,34,34)
+    );
+}
+/* code */
+.liquid ._wu0 {
+    background: #3a3937;
+    border-color: #846e1a;
+}
+  #facebook .liquid._-kb code,
+  #facebook .liquid._-kb pre {
+    background-color: #846e19;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+/* links */
+.liquid a {
+    color: #ddd !important;
+}
+/* dialogs */
+.liquid ._59s7,
+.liquid ._4eby {
+    background-color: #222;
+}
+.liquid .uiHeader h3,
+.liquid .uiHeader h4 {
+    color: #ddd;
+}
+.liquid .__tw div.jewelHeader,
+.liquid .__tw .jewelFooter a,
+.liquid .__tw,
+.liquid ._558b ._54ng,
+.liquid ._1sdi {
+    background-color: #000001;
+    border-color: #000001;
+}
+.liquid ._33c,
+.liquid ._1y2l .jewelContent a.messagesContent {
+    background-color: #444444;
+    border-color: #000001;
+}
+.liquid .jewelItemNew._1rqj ._33e,
+.liquid .__tw li.jewelItemNew,
+.liquid ._1y2l li.jewelItemNew a.messagesContent {
+    background-color: #35515d;
+}
+.liquid ._1rqj:hover ._33e,
+.liquid ._1rqj ._33e:focus {
+    background-image: none;
+    background-color: #575757;
+}
+.liquid ._558b ._54nc,
+.liquid ._3y6_ {
+    border-color: #000001;
+}
+.liquid ._1y2l .author,
+.liquid ._1y2l .author,
+.liquid ._1y2l a.messagesContent:hover .author,
+.liquid ._1y2l a.messagesContent:hover .author span,
+.liquid ._1y2l .subject,
+.liquid ._1y2l a.messagesContent:hover .subject,
+.liquid ._2i-c ._54nf ._54nh,
+.liquid ._374c,
+.liquid ._6cs7,
+.liquid ._4ng2,
+.liquid ._2c9i ._19jt {
+    color: #ddd;
+}
